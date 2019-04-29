@@ -40,7 +40,8 @@
     "release-csp": "bash build/release-csp.sh"
   },
   "dependencies": {
-    "envify": "^3.4.0"
+    "envify": "^3.4.0",
+    "vue": "2.5.15"
   },
   "browserify": {
     "transform": [
